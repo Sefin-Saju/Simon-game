@@ -1,2 +1,2 @@
 # Simon-game
-created game using Javascript
+created a game using Javascript
